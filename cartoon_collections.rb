@@ -21,6 +21,7 @@ def summon_captain_planet(array)
   nu_array
 end
 
+call_screams = ["bo", "bam", "boom", "bazam", "powzer"]
 
 def long_planeteer_calls# code an argument here
   # Your code here
